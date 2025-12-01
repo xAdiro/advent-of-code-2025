@@ -1,4 +1,7 @@
 <?php
+namespace Aoc2025;
+require __DIR__ . '/Day1/part1.php';
 
-echo("Hello world!");
+Day1\part1();
+Day1\part2();
 
