@@ -7,6 +7,8 @@ require __DIR__ . '/Day3/part1.php';
 require __DIR__ . '/Day3/part2.php';
 require __DIR__ . '/Day4/part1.php';
 require __DIR__ . '/Day4/part2.php';
+require __DIR__ . '/Day6/part1.php';
+require __DIR__ . '/Day6/part2.php';
 
 /* Day1\part1(); */
 /* Day1\part2(); */
@@ -15,4 +17,6 @@ require __DIR__ . '/Day4/part2.php';
 /* Day3\part2(); */
 
 /* Day4\part1(); */
-Day4\part2();
+/* Day4\part2(); */
+/* Day6\part1(); */
+Day6\part2();
